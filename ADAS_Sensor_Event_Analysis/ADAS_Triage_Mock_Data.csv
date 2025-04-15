@@ -1,0 +1,301 @@
+Triage_ID,Vehicle_ID,Speed_kmph,Brake_Applied,Curve_Type,VRU_Detected,Issue_Type,Location,Triage_Time_Min
+TID1000,VID319,49.97,Yes,S-curve,No,Late Brake,Chennai,26.2
+TID1001,VID652,43.62,Yes,Left Curve,Yes,No Brake,Bangalore,21.09
+TID1002,VID235,51.48,No,Right Curve,No,Sensor Glitch,Hyderabad,36.11
+TID1003,VID840,60.23,No,Straight,No,False VRU Detection,Hyderabad,18.81
+TID1004,VID684,42.66,No,S-curve,Yes,Sensor Glitch,Ahmedabad,27.62
+TID1005,VID690,42.66,Yes,Straight,No,Over Speed,Ahmedabad,21.33
+TID1006,VID584,60.79,Yes,Left Curve,Yes,No Brake,Pune,23.23
+TID1007,VID348,52.67,No,Left Curve,No,Over Speed,Chennai,27.27
+TID1008,VID903,40.31,Yes,Left Curve,Yes,No Brake,Pune,31.12
+TID1009,VID584,50.43,No,S-curve,No,Over Speed,Ahmedabad,33.12
+TID1010,VID926,40.37,No,Right Curve,Yes,Sensor Glitch,Bangalore,17.32
+TID1011,VID516,40.34,Yes,S-curve,No,Sensor Glitch,Ahmedabad,26.34
+TID1012,VID294,47.42,No,Straight,No,Late Brake,Chennai,32.3
+TID1013,VID196,25.87,No,S-curve,No,False VRU Detection,Ahmedabad,16.57
+TID1014,VID199,27.75,Yes,Straight,Yes,Over Speed,Chennai,26.57
+TID1015,VID774,39.38,No,S-curve,No,Curve Misjudgment,Chennai,24.99
+TID1016,VID541,34.87,Yes,Right Curve,Yes,Late Brake,Chennai,27.07
+TID1017,VID462,48.14,No,Straight,No,Over Speed,Chennai,21.14
+TID1018,VID533,35.92,Yes,Left Curve,Yes,Over Speed,Chennai,17.82
+TID1019,VID520,30.88,No,Left Curve,Yes,Late Brake,Bangalore,15.43
+TID1020,VID578,59.66,Yes,S-curve,Yes,Sensor Glitch,Pune,29.88
+TID1021,VID984,42.74,Yes,Left Curve,No,Over Speed,Hyderabad,30.52
+TID1022,VID846,45.68,No,Straight,No,Sensor Glitch,Pune,26.51
+TID1023,VID155,30.75,Yes,Left Curve,Yes,Late Brake,Chennai,22.33
+TID1024,VID789,39.56,Yes,Right Curve,No,Sensor Glitch,Bangalore,16.88
+TID1025,VID769,46.11,No,Right Curve,No,No Brake,Ahmedabad,27.82
+TID1026,VID761,33.49,No,S-curve,No,Curve Misjudgment,Bangalore,19.5
+TID1027,VID200,48.76,Yes,Straight,No,Over Speed,Chennai,21.44
+TID1028,VID162,38.99,Yes,Right Curve,No,False VRU Detection,Bangalore,22.07
+TID1029,VID512,42.08,Yes,Right Curve,No,Curve Misjudgment,Bangalore,24.01
+TID1030,VID845,38.98,Yes,Straight,Yes,Sensor Glitch,Chennai,21.2
+TID1031,VID447,63.52,Yes,Left Curve,Yes,Over Speed,Bangalore,25.17
+TID1032,VID919,44.87,Yes,Left Curve,No,Sensor Glitch,Hyderabad,21.89
+TID1033,VID982,34.42,No,S-curve,No,No Brake,Hyderabad,28.51
+TID1034,VID211,53.23,No,Left Curve,Yes,Late Brake,Bangalore,30.16
+TID1035,VID354,32.79,No,Straight,Yes,Over Speed,Ahmedabad,25.54
+TID1036,VID296,47.09,Yes,Right Curve,No,No Brake,Chennai,27.31
+TID1037,VID294,25.4,Yes,Left Curve,No,No Brake,Hyderabad,35.59
+TID1038,VID649,31.72,Yes,S-curve,Yes,Over Speed,Ahmedabad,19.14
+TID1039,VID559,46.97,Yes,Left Curve,Yes,Sensor Glitch,Bangalore,18.83
+TID1040,VID243,52.38,Yes,Straight,No,False VRU Detection,Ahmedabad,28.47
+TID1041,VID532,46.71,No,S-curve,No,No Brake,Pune,34.73
+TID1042,VID287,43.84,Yes,Left Curve,Yes,Curve Misjudgment,Hyderabad,23.7
+TID1043,VID385,41.99,Yes,S-curve,Yes,No Brake,Bangalore,33.63
+TID1044,VID573,30.21,Yes,Straight,Yes,False VRU Detection,Chennai,25.48
+TID1045,VID355,37.8,No,Right Curve,No,Sensor Glitch,Bangalore,21.6
+TID1046,VID995,40.39,Yes,Straight,Yes,Sensor Glitch,Chennai,20.05
+TID1047,VID177,55.57,Yes,Straight,Yes,Curve Misjudgment,Bangalore,28.15
+TID1048,VID553,48.44,Yes,Straight,No,No Brake,Ahmedabad,20.43
+TID1049,VID927,27.37,No,Straight,Yes,Sensor Glitch,Ahmedabad,25.41
+TID1050,VID982,48.24,Yes,Right Curve,No,False VRU Detection,Ahmedabad,32.92
+TID1051,VID976,41.15,No,Right Curve,Yes,Over Speed,Pune,23.47
+TID1052,VID663,38.23,No,S-curve,Yes,Late Brake,Chennai,31.57
+TID1053,VID200,51.12,Yes,Left Curve,Yes,Late Brake,Ahmedabad,18.93
+TID1054,VID151,55.31,Yes,Right Curve,No,Late Brake,Pune,22.33
+TID1055,VID767,54.31,No,Right Curve,No,No Brake,Chennai,17.96
+TID1056,VID653,36.61,Yes,Left Curve,No,Curve Misjudgment,Bangalore,25.36
+TID1057,VID956,41.91,Yes,Right Curve,Yes,Sensor Glitch,Pune,28.9
+TID1058,VID115,48.31,No,Straight,No,Over Speed,Hyderabad,25.38
+TID1059,VID195,54.76,No,Straight,Yes,False VRU Detection,Pune,31.14
+TID1060,VID871,40.21,No,Left Curve,Yes,Over Speed,Pune,21.25
+TID1061,VID969,43.14,No,S-curve,No,False VRU Detection,Chennai,26.13
+TID1062,VID342,33.94,Yes,S-curve,Yes,No Brake,Bangalore,22.36
+TID1063,VID270,33.04,Yes,Left Curve,Yes,Late Brake,Hyderabad,26.81
+TID1064,VID516,53.13,No,Left Curve,Yes,No Brake,Ahmedabad,27.52
+TID1065,VID597,58.56,Yes,Straight,Yes,Curve Misjudgment,Ahmedabad,27.91
+TID1066,VID592,44.28,Yes,S-curve,Yes,Curve Misjudgment,Pune,19.65
+TID1067,VID318,55.04,No,Right Curve,No,False VRU Detection,Chennai,20.55
+TID1068,VID985,48.62,Yes,Straight,No,Sensor Glitch,Chennai,21.48
+TID1069,VID510,38.55,Yes,Left Curve,No,Sensor Glitch,Ahmedabad,23.81
+TID1070,VID160,48.61,Yes,S-curve,No,False VRU Detection,Hyderabad,25.44
+TID1071,VID268,60.38,Yes,Right Curve,Yes,Curve Misjudgment,Bangalore,28.54
+TID1072,VID488,44.64,Yes,Right Curve,Yes,Curve Misjudgment,Hyderabad,20.76
+TID1073,VID102,60.65,Yes,Straight,Yes,Curve Misjudgment,Bangalore,16.99
+TID1074,VID499,18.8,Yes,S-curve,No,No Brake,Ahmedabad,35.78
+TID1075,VID371,53.22,Yes,S-curve,Yes,Curve Misjudgment,Bangalore,19.34
+TID1076,VID902,45.87,No,Left Curve,No,Over Speed,Chennai,29.18
+TID1077,VID903,42.01,Yes,S-curve,No,Late Brake,Pune,25.16
+TID1078,VID565,45.92,No,S-curve,No,Curve Misjudgment,Pune,26.26
+TID1079,VID392,25.12,Yes,Straight,No,False VRU Detection,Ahmedabad,24.99
+TID1080,VID533,42.8,Yes,S-curve,Yes,Late Brake,Chennai,23.08
+TID1081,VID813,48.57,No,Right Curve,No,No Brake,Hyderabad,27.32
+TID1082,VID848,59.78,Yes,Straight,No,False VRU Detection,Chennai,22.81
+TID1083,VID902,39.82,No,Straight,Yes,Late Brake,Pune,30.83
+TID1084,VID669,36.92,Yes,Left Curve,No,False VRU Detection,Pune,27.84
+TID1085,VID777,39.98,No,S-curve,No,No Brake,Chennai,28.0
+TID1086,VID835,54.15,Yes,Left Curve,No,Over Speed,Chennai,22.46
+TID1087,VID598,48.29,No,Right Curve,No,No Brake,Pune,23.82
+TID1088,VID258,39.7,Yes,Straight,No,No Brake,Hyderabad,19.06
+TID1089,VID294,50.13,No,Straight,Yes,False VRU Detection,Ahmedabad,23.23
+TID1090,VID403,45.97,Yes,Straight,Yes,Sensor Glitch,Ahmedabad,19.82
+TID1091,VID322,54.69,Yes,Right Curve,No,Curve Misjudgment,Chennai,31.57
+TID1092,VID159,37.98,No,Right Curve,No,Curve Misjudgment,Ahmedabad,25.25
+TID1093,VID693,41.72,Yes,Left Curve,Yes,Over Speed,Pune,25.85
+TID1094,VID853,41.08,Yes,Left Curve,Yes,Over Speed,Pune,23.87
+TID1095,VID655,30.36,Yes,Left Curve,No,Curve Misjudgment,Chennai,25.99
+TID1096,VID162,47.96,Yes,S-curve,No,Sensor Glitch,Chennai,37.32
+TID1097,VID865,47.61,Yes,Straight,No,Curve Misjudgment,Chennai,23.5
+TID1098,VID421,45.05,Yes,Straight,Yes,Sensor Glitch,Hyderabad,21.75
+TID1099,VID158,42.65,No,Left Curve,Yes,Over Speed,Ahmedabad,27.65
+TID1100,VID151,30.85,Yes,Straight,Yes,Late Brake,Chennai,12.37
+TID1101,VID698,40.79,Yes,Left Curve,No,False VRU Detection,Bangalore,25.32
+TID1102,VID588,41.57,No,S-curve,Yes,Over Speed,Bangalore,23.14
+TID1103,VID614,36.98,No,S-curve,No,Over Speed,Pune,20.04
+TID1104,VID973,43.39,Yes,Right Curve,Yes,No Brake,Ahmedabad,27.54
+TID1105,VID643,49.04,Yes,S-curve,No,No Brake,Chennai,25.27
+TID1106,VID261,63.86,Yes,Left Curve,No,No Brake,Bangalore,15.99
+TID1107,VID158,46.75,Yes,S-curve,No,False VRU Detection,Ahmedabad,21.77
+TID1108,VID620,47.58,Yes,Right Curve,Yes,No Brake,Pune,10.56
+TID1109,VID182,44.26,Yes,Straight,Yes,Sensor Glitch,Hyderabad,26.47
+TID1110,VID971,25.81,Yes,Left Curve,Yes,Curve Misjudgment,Ahmedabad,26.42
+TID1111,VID290,44.73,Yes,Straight,No,Late Brake,Ahmedabad,21.03
+TID1112,VID170,45.6,No,Right Curve,No,Over Speed,Hyderabad,27.7
+TID1113,VID709,69.63,No,Right Curve,No,Sensor Glitch,Ahmedabad,18.59
+TID1114,VID169,43.08,Yes,Right Curve,No,Late Brake,Pune,20.17
+TID1115,VID791,48.02,Yes,Straight,No,Sensor Glitch,Pune,27.09
+TID1116,VID982,44.65,Yes,Straight,Yes,Sensor Glitch,Hyderabad,21.56
+TID1117,VID340,33.31,No,Straight,No,Over Speed,Chennai,24.69
+TID1118,VID513,56.43,Yes,Straight,No,Curve Misjudgment,Bangalore,22.18
+TID1119,VID222,52.52,Yes,Right Curve,Yes,No Brake,Chennai,22.95
+TID1120,VID683,52.91,No,Right Curve,No,False VRU Detection,Ahmedabad,23.16
+TID1121,VID352,35.91,No,Left Curve,Yes,Curve Misjudgment,Bangalore,21.47
+TID1122,VID692,59.03,No,Left Curve,Yes,False VRU Detection,Hyderabad,26.51
+TID1123,VID708,30.98,No,Straight,No,Over Speed,Hyderabad,21.86
+TID1124,VID140,50.87,Yes,S-curve,Yes,Over Speed,Bangalore,25.08
+TID1125,VID734,66.9,Yes,S-curve,No,Over Speed,Pune,21.36
+TID1126,VID183,35.09,No,Right Curve,Yes,Late Brake,Bangalore,17.33
+TID1127,VID529,39.34,No,Right Curve,Yes,False VRU Detection,Ahmedabad,29.56
+TID1128,VID773,46.0,Yes,Right Curve,Yes,Curve Misjudgment,Pune,27.5
+TID1129,VID697,39.97,Yes,Left Curve,Yes,Curve Misjudgment,Hyderabad,36.44
+TID1130,VID678,29.49,Yes,Left Curve,No,Sensor Glitch,Bangalore,19.78
+TID1131,VID635,45.69,No,Right Curve,Yes,Sensor Glitch,Chennai,23.96
+TID1132,VID423,34.38,No,Right Curve,No,Sensor Glitch,Chennai,24.36
+TID1133,VID367,49.74,Yes,Right Curve,No,Over Speed,Ahmedabad,29.95
+TID1134,VID309,35.81,Yes,S-curve,No,Curve Misjudgment,Chennai,22.46
+TID1135,VID785,60.5,Yes,Left Curve,No,False VRU Detection,Bangalore,19.14
+TID1136,VID833,37.17,No,S-curve,No,Over Speed,Bangalore,31.04
+TID1137,VID421,41.78,No,S-curve,Yes,Late Brake,Chennai,23.42
+TID1138,VID344,53.14,No,Right Curve,Yes,Sensor Glitch,Bangalore,29.39
+TID1139,VID371,32.69,Yes,Right Curve,Yes,Over Speed,Ahmedabad,28.81
+TID1140,VID505,47.27,Yes,Straight,No,Over Speed,Pune,24.85
+TID1141,VID234,58.07,Yes,Straight,Yes,Late Brake,Ahmedabad,24.13
+TID1142,VID787,28.93,Yes,S-curve,No,No Brake,Ahmedabad,23.04
+TID1143,VID760,46.85,No,Left Curve,No,Curve Misjudgment,Bangalore,24.92
+TID1144,VID407,47.6,No,Right Curve,Yes,False VRU Detection,Pune,29.32
+TID1145,VID568,52.82,No,Right Curve,No,No Brake,Bangalore,21.02
+TID1146,VID423,32.63,No,S-curve,Yes,Sensor Glitch,Hyderabad,25.54
+TID1147,VID869,31.8,Yes,Straight,Yes,Over Speed,Bangalore,19.41
+TID1148,VID174,50.22,No,Left Curve,No,Late Brake,Bangalore,20.03
+TID1149,VID109,47.97,No,Straight,No,Late Brake,Bangalore,24.85
+TID1150,VID569,47.5,No,Straight,No,Curve Misjudgment,Pune,15.2
+TID1151,VID736,48.46,Yes,Straight,No,No Brake,Bangalore,35.3
+TID1152,VID676,38.2,Yes,Straight,Yes,Curve Misjudgment,Pune,19.03
+TID1153,VID202,47.32,Yes,Right Curve,No,Over Speed,Chennai,24.8
+TID1154,VID175,47.93,No,Right Curve,No,Curve Misjudgment,Hyderabad,30.84
+TID1155,VID650,37.86,Yes,Straight,No,False VRU Detection,Pune,20.69
+TID1156,VID318,63.66,Yes,Left Curve,Yes,Late Brake,Chennai,13.49
+TID1157,VID618,49.74,Yes,S-curve,No,Late Brake,Pune,22.78
+TID1158,VID371,33.09,Yes,Left Curve,Yes,Sensor Glitch,Pune,20.63
+TID1159,VID235,51.57,Yes,Left Curve,Yes,Sensor Glitch,Hyderabad,13.62
+TID1160,VID457,35.25,Yes,Left Curve,No,Over Speed,Ahmedabad,26.42
+TID1161,VID170,52.87,Yes,Straight,Yes,False VRU Detection,Ahmedabad,26.04
+TID1162,VID350,56.59,Yes,Right Curve,No,No Brake,Pune,30.71
+TID1163,VID478,36.79,No,Left Curve,No,Curve Misjudgment,Bangalore,19.4
+TID1164,VID391,54.63,Yes,Straight,Yes,Over Speed,Chennai,17.0
+TID1165,VID261,49.13,No,Left Curve,No,Sensor Glitch,Bangalore,22.97
+TID1166,VID548,53.22,Yes,Left Curve,No,Curve Misjudgment,Bangalore,24.56
+TID1167,VID953,63.97,Yes,Straight,No,Sensor Glitch,Pune,29.61
+TID1168,VID656,42.55,No,Right Curve,No,Curve Misjudgment,Pune,32.05
+TID1169,VID820,37.46,Yes,Right Curve,No,No Brake,Pune,31.07
+TID1170,VID409,36.1,Yes,S-curve,No,Over Speed,Pune,26.38
+TID1171,VID726,36.84,Yes,Straight,No,Curve Misjudgment,Ahmedabad,29.0
+TID1172,VID926,44.23,No,S-curve,Yes,False VRU Detection,Pune,21.8
+TID1173,VID769,48.41,Yes,S-curve,No,Late Brake,Ahmedabad,25.84
+TID1174,VID641,47.77,No,S-curve,Yes,False VRU Detection,Ahmedabad,19.04
+TID1175,VID108,53.27,Yes,Right Curve,No,False VRU Detection,Pune,25.31
+TID1176,VID783,45.13,Yes,Straight,No,Late Brake,Hyderabad,25.44
+TID1177,VID936,59.54,Yes,S-curve,Yes,False VRU Detection,Chennai,33.61
+TID1178,VID667,42.35,Yes,Straight,No,Curve Misjudgment,Bangalore,23.86
+TID1179,VID406,72.2,Yes,Straight,No,Curve Misjudgment,Ahmedabad,25.45
+TID1180,VID779,51.26,Yes,Right Curve,Yes,Curve Misjudgment,Chennai,26.18
+TID1181,VID206,36.43,Yes,S-curve,No,Late Brake,Hyderabad,22.73
+TID1182,VID999,34.29,No,S-curve,No,False VRU Detection,Bangalore,20.99
+TID1183,VID237,49.82,Yes,Straight,Yes,Late Brake,Bangalore,31.49
+TID1184,VID370,42.77,Yes,Left Curve,No,Curve Misjudgment,Ahmedabad,20.1
+TID1185,VID218,52.14,No,Right Curve,Yes,False VRU Detection,Pune,18.36
+TID1186,VID209,49.73,Yes,Right Curve,No,False VRU Detection,Hyderabad,28.4
+TID1187,VID860,44.27,Yes,Right Curve,No,Sensor Glitch,Ahmedabad,30.79
+TID1188,VID666,36.53,No,Right Curve,No,Sensor Glitch,Hyderabad,22.74
+TID1189,VID259,29.85,No,S-curve,No,No Brake,Pune,22.82
+TID1190,VID378,40.53,Yes,S-curve,No,Over Speed,Pune,26.41
+TID1191,VID388,53.56,No,Left Curve,No,Sensor Glitch,Ahmedabad,21.46
+TID1192,VID719,47.14,Yes,Right Curve,Yes,Late Brake,Pune,21.09
+TID1193,VID315,32.54,Yes,Right Curve,No,Sensor Glitch,Chennai,29.4
+TID1194,VID834,46.73,Yes,Straight,Yes,No Brake,Bangalore,28.04
+TID1195,VID451,48.85,No,S-curve,No,False VRU Detection,Ahmedabad,31.56
+TID1196,VID308,36.16,Yes,Right Curve,Yes,No Brake,Hyderabad,18.74
+TID1197,VID803,46.54,Yes,Left Curve,Yes,False VRU Detection,Chennai,22.49
+TID1198,VID749,45.58,Yes,Left Curve,Yes,False VRU Detection,Ahmedabad,26.41
+TID1199,VID973,33.57,Yes,S-curve,No,Over Speed,Pune,20.37
+TID1200,VID370,48.58,Yes,Left Curve,Yes,Sensor Glitch,Pune,28.21
+TID1201,VID617,50.61,Yes,Left Curve,No,Late Brake,Pune,31.12
+TID1202,VID600,55.83,Yes,S-curve,Yes,Late Brake,Pune,22.08
+TID1203,VID357,55.54,Yes,Right Curve,Yes,Curve Misjudgment,Hyderabad,25.19
+TID1204,VID966,31.22,Yes,Right Curve,No,False VRU Detection,Chennai,32.28
+TID1205,VID152,35.62,Yes,Left Curve,No,Late Brake,Bangalore,34.0
+TID1206,VID194,50.15,Yes,Left Curve,Yes,Over Speed,Hyderabad,28.73
+TID1207,VID749,50.14,Yes,Right Curve,No,False VRU Detection,Hyderabad,27.97
+TID1208,VID533,50.15,No,S-curve,No,Over Speed,Bangalore,20.73
+TID1209,VID949,83.53,Yes,Left Curve,No,Late Brake,Bangalore,26.8
+TID1210,VID383,50.71,Yes,Straight,Yes,Late Brake,Pune,27.78
+TID1211,VID145,56.36,Yes,S-curve,Yes,Curve Misjudgment,Hyderabad,23.95
+TID1212,VID103,54.54,Yes,Left Curve,No,Late Brake,Ahmedabad,22.03
+TID1213,VID441,51.51,Yes,Left Curve,Yes,False VRU Detection,Bangalore,18.59
+TID1214,VID889,41.85,Yes,Straight,No,False VRU Detection,Bangalore,16.31
+TID1215,VID233,52.59,Yes,Straight,No,False VRU Detection,Chennai,15.26
+TID1216,VID752,37.27,Yes,Right Curve,No,Curve Misjudgment,Ahmedabad,27.9
+TID1217,VID368,42.63,Yes,S-curve,No,Curve Misjudgment,Ahmedabad,25.74
+TID1218,VID265,40.15,Yes,S-curve,No,Late Brake,Bangalore,22.58
+TID1219,VID859,45.82,Yes,Right Curve,Yes,No Brake,Pune,23.34
+TID1220,VID552,68.15,Yes,S-curve,No,No Brake,Chennai,26.05
+TID1221,VID664,26.33,Yes,S-curve,No,Curve Misjudgment,Ahmedabad,24.18
+TID1222,VID822,51.86,Yes,S-curve,No,Late Brake,Bangalore,18.3
+TID1223,VID537,28.87,Yes,S-curve,No,No Brake,Ahmedabad,29.57
+TID1224,VID674,40.28,Yes,S-curve,No,Late Brake,Chennai,26.52
+TID1225,VID109,55.89,No,Straight,No,Late Brake,Chennai,26.33
+TID1226,VID214,45.64,Yes,S-curve,No,Late Brake,Hyderabad,29.19
+TID1227,VID177,34.22,Yes,Straight,No,Sensor Glitch,Bangalore,20.93
+TID1228,VID807,37.85,No,S-curve,No,False VRU Detection,Chennai,31.07
+TID1229,VID252,51.8,No,Right Curve,No,Late Brake,Hyderabad,24.3
+TID1230,VID658,37.7,Yes,Left Curve,Yes,Sensor Glitch,Hyderabad,29.44
+TID1231,VID136,47.16,Yes,Straight,Yes,Curve Misjudgment,Ahmedabad,28.67
+TID1232,VID954,45.46,No,S-curve,Yes,No Brake,Ahmedabad,19.81
+TID1233,VID478,38.48,No,Right Curve,Yes,False VRU Detection,Hyderabad,27.51
+TID1234,VID696,66.44,Yes,Left Curve,Yes,No Brake,Ahmedabad,26.63
+TID1235,VID665,51.34,Yes,Straight,Yes,False VRU Detection,Chennai,25.15
+TID1236,VID251,24.75,Yes,Left Curve,Yes,No Brake,Pune,24.53
+TID1237,VID540,46.86,Yes,Right Curve,Yes,False VRU Detection,Chennai,24.57
+TID1238,VID230,38.38,Yes,Straight,No,No Brake,Hyderabad,29.06
+TID1239,VID142,53.52,Yes,Left Curve,No,No Brake,Hyderabad,27.89
+TID1240,VID415,37.07,Yes,S-curve,Yes,No Brake,Chennai,25.15
+TID1241,VID473,43.85,No,Straight,No,No Brake,Ahmedabad,17.54
+TID1242,VID915,50.05,Yes,Left Curve,Yes,Curve Misjudgment,Ahmedabad,27.47
+TID1243,VID981,53.66,Yes,Right Curve,No,Late Brake,Hyderabad,28.62
+TID1244,VID140,33.0,No,Right Curve,No,Over Speed,Bangalore,36.5
+TID1245,VID466,41.65,No,Straight,Yes,Sensor Glitch,Ahmedabad,30.38
+TID1246,VID315,40.25,Yes,Left Curve,No,Over Speed,Chennai,15.5
+TID1247,VID798,38.47,Yes,Straight,No,Over Speed,Ahmedabad,25.39
+TID1248,VID355,62.65,Yes,Straight,No,False VRU Detection,Chennai,34.06
+TID1249,VID782,49.05,Yes,Left Curve,No,Late Brake,Hyderabad,28.12
+TID1250,VID205,32.39,Yes,Left Curve,No,False VRU Detection,Ahmedabad,26.64
+TID1251,VID462,54.18,Yes,S-curve,Yes,Late Brake,Chennai,29.5
+TID1252,VID898,66.22,Yes,Left Curve,No,Late Brake,Hyderabad,21.89
+TID1253,VID673,55.32,Yes,Right Curve,Yes,No Brake,Bangalore,27.39
+TID1254,VID995,29.81,Yes,Straight,No,Curve Misjudgment,Chennai,23.75
+TID1255,VID516,40.16,Yes,Straight,No,No Brake,Bangalore,24.9
+TID1256,VID735,57.67,Yes,Right Curve,No,Curve Misjudgment,Bangalore,29.14
+TID1257,VID867,37.92,Yes,Left Curve,No,False VRU Detection,Pune,20.37
+TID1258,VID258,49.44,Yes,Right Curve,Yes,Curve Misjudgment,Ahmedabad,31.44
+TID1259,VID342,52.75,No,Right Curve,Yes,False VRU Detection,Chennai,22.89
+TID1260,VID985,35.73,Yes,S-curve,Yes,Over Speed,Bangalore,26.3
+TID1261,VID266,44.4,Yes,Right Curve,Yes,Over Speed,Pune,18.0
+TID1262,VID919,12.59,No,Straight,No,Curve Misjudgment,Hyderabad,28.6
+TID1263,VID930,34.76,Yes,Right Curve,Yes,Curve Misjudgment,Chennai,32.23
+TID1264,VID281,42.47,Yes,Straight,Yes,False VRU Detection,Bangalore,22.43
+TID1265,VID522,32.52,Yes,Straight,No,No Brake,Ahmedabad,19.45
+TID1266,VID125,61.32,Yes,Straight,No,False VRU Detection,Pune,26.39
+TID1267,VID283,30.7,No,Left Curve,No,No Brake,Bangalore,32.27
+TID1268,VID854,40.6,Yes,S-curve,No,Over Speed,Ahmedabad,17.75
+TID1269,VID440,46.31,Yes,Straight,Yes,Late Brake,Bangalore,19.47
+TID1270,VID901,59.41,Yes,Straight,Yes,Curve Misjudgment,Chennai,22.73
+TID1271,VID521,30.64,Yes,Left Curve,No,No Brake,Chennai,20.9
+TID1272,VID921,56.63,Yes,Straight,No,False VRU Detection,Chennai,20.91
+TID1273,VID785,45.1,Yes,Right Curve,Yes,Over Speed,Pune,14.53
+TID1274,VID984,35.18,Yes,Right Curve,No,No Brake,Chennai,27.95
+TID1275,VID852,49.62,No,S-curve,Yes,False VRU Detection,Ahmedabad,26.69
+TID1276,VID930,46.99,Yes,Straight,Yes,Curve Misjudgment,Bangalore,16.51
+TID1277,VID354,39.0,Yes,Left Curve,No,Curve Misjudgment,Hyderabad,32.29
+TID1278,VID373,45.7,Yes,Right Curve,No,Sensor Glitch,Ahmedabad,33.41
+TID1279,VID263,41.15,Yes,Left Curve,No,Late Brake,Ahmedabad,21.25
+TID1280,VID906,46.14,Yes,Left Curve,Yes,Sensor Glitch,Chennai,30.83
+TID1281,VID818,51.62,Yes,Right Curve,No,Over Speed,Pune,22.14
+TID1282,VID210,60.86,Yes,Left Curve,Yes,No Brake,Bangalore,25.91
+TID1283,VID491,32.62,Yes,Right Curve,Yes,Over Speed,Pune,20.82
+TID1284,VID993,66.33,Yes,Left Curve,No,False VRU Detection,Bangalore,36.07
+TID1285,VID139,25.48,No,Right Curve,No,Curve Misjudgment,Bangalore,23.52
+TID1286,VID979,43.48,Yes,Straight,No,Sensor Glitch,Pune,25.63
+TID1287,VID581,50.88,Yes,S-curve,No,Sensor Glitch,Ahmedabad,21.56
+TID1288,VID327,47.81,Yes,Right Curve,No,Sensor Glitch,Bangalore,34.31
+TID1289,VID304,38.77,No,Right Curve,No,Over Speed,Pune,34.43
+TID1290,VID936,42.92,Yes,S-curve,Yes,Curve Misjudgment,Bangalore,33.15
+TID1291,VID571,40.07,Yes,Right Curve,No,No Brake,Hyderabad,29.78
+TID1292,VID458,39.11,No,Right Curve,Yes,False VRU Detection,Ahmedabad,21.88
+TID1293,VID412,53.5,No,Left Curve,Yes,No Brake,Chennai,29.14
+TID1294,VID940,48.57,No,S-curve,No,Over Speed,Bangalore,24.96
+TID1295,VID914,38.07,Yes,Straight,No,False VRU Detection,Hyderabad,31.56
+TID1296,VID992,54.0,Yes,Right Curve,Yes,Sensor Glitch,Chennai,30.58
+TID1297,VID333,48.07,Yes,S-curve,Yes,Late Brake,Chennai,21.75
+TID1298,VID328,53.13,No,Left Curve,No,Over Speed,Bangalore,29.74
+TID1299,VID124,51.3,Yes,Straight,Yes,Over Speed,Pune,28.41
